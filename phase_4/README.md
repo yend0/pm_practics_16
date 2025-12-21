@@ -54,9 +54,9 @@
 - В качестве итоговой оценки используется **P80** — срок, в который фаза 5 завершается с вероятностью 80%.
 
 #### Используемые графики:
-- **Рисунок 1.** Эмпирическое распределение количества выполненных задач в неделю  
-- **Рисунок 3.** Гистограмма сроков выполнения фазы 5 (Модель 1)  
-- **Рисунок 5.** ECDF-кривая длительности выполнения (Модель 1)
+<img width="567" height="455" alt="1" src="https://github.com/user-attachments/assets/e250062a-f54c-4773-b42d-faabc23af1f6" />
+<img width="580" height="455" alt="3" src="https://github.com/user-attachments/assets/fb14eb4f-78ac-4d71-8caa-8acbe9bd241c" />
+<img width="573" height="455" alt="5" src="https://github.com/user-attachments/assets/adf8a56a-932d-47f3-989e-777f3f8b3f8c" />
 
 ---
 
@@ -76,9 +76,9 @@
 - Итоговая оценка также определяется по **P80**.
 
 #### Используемые графики:
-- **Рисунок 2.** Эмпирическое распределение трудозатрат по неделям  
-- **Рисунок 4.** Гистограмма сроков выполнения фазы 5 (Модель 2)  
-- **Рисунок 5.** ECDF-кривая длительности выполнения (Модель 2)
+<img width="599" height="455" alt="2" src="https://github.com/user-attachments/assets/9f19fd34-2161-487c-92b5-26eb76c8fa14" />
+<img width="633" height="455" alt="4" src="https://github.com/user-attachments/assets/8689dba2-68ab-4382-9243-bb3d142ff624" />
+<img width="573" height="455" alt="5" src="https://github.com/user-attachments/assets/db5af2ae-7ea3-4192-b45a-8bab806b2c29" />
 
 ---
 
